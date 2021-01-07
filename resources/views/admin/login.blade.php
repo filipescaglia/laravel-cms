@@ -1,3 +1,3 @@
-@extends('adminlte::auth/login')
+@extends('adminlte::auth.login')
 
 @section('title', 'Login')
